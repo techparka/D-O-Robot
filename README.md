@@ -86,7 +86,7 @@ Link to <a href="">youtube video</a>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<center><img src=images/D-O.jpg width="300" alt=D-O.jpg />
+<center><img src=images/D-O.jpg width="300" alt=https://github.com/marcincyber/D-O-Robot />
 </center> 
 
 
