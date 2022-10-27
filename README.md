@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/marcincyber/D-O-Robot">
-    <img src="images/D-O_Graph1.png" alt="Logo" width="80" height="80">
+    <img src="images/D-O_Graph1.png" alt="Logo" width="150" height="180">
   </a>
 
 <h3 align="center">D-O Robot</h3>
