@@ -112,8 +112,8 @@ Link to <a href="">youtube video</a>
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you want build this robot in this repository I show you my road to achive this. I share with you all files i created. 
-## D-O Robot Builidng 
+If you want build this robot in this repository I show you my road to achieve this. I share with you all files i created. 
+## D-O Robot Building 
 
 ### Mechanism
  <a href="mechanism.md">How to make</a>
@@ -125,7 +125,7 @@ If you want build this robot in this repository I show you my road to achive thi
 
 #### Android
 
-<br>All code for android aplication is <a href="android/">here</a>
+<br>All code for android application is <a href="android/">here</a>
 
 If you want make some modification on your computer.
 1. Clone the repo
@@ -139,16 +139,23 @@ If you want make some modification on your computer.
 4. Change what you want
 
 5. Build .apk
+
+<br>How application looks like.
+
+<img src=images/Screenshot_start.jpg width="150" hight="100" alt=https://github.com/marcincyber/D-O-Robot />
+<img src=images/Screenshot_second_screen.jpg width="500" hight="300" alt=https://github.com/marcincyber/D-O-Robot />
+
+
 #### Arduino
 <br>
 Get code from <a href="D-O_arduino_side/">here</a>
 
-Run it with Arduino IDE and upload on microcontroler 
+Run it with Arduino IDE and upload on microcontroller 
 #### NodeMCU
 <br>
 Get code from <a href="D-O_nodemcu_side/">here</a>
 
-Run it with Arduino IDE and upload on microcontroler 
+Run it with Arduino IDE and upload on microcontroller 
 
 
 
