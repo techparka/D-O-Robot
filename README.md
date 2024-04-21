@@ -207,7 +207,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Marcin Wójcik - marcin.3dprint@gmail.com
+Your Name - Weronika & Marcin Wójcik - marcin.3dprint@gmail.com weronika.muszynskawojcik@gmail.com
 
 Project Link: [https://github.com/marcincyber/D-O-Robot](https://github.com/marcincyber/D-O-Robot)
 
