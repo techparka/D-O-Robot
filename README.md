@@ -209,7 +209,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - Weronika & Marcin Wójcik - marcin.3dprint@gmail.com weronika.muszynskawojcik@gmail.com
 
-Project Link: [https://github.com/marcincyber/D-O-Robot](https://github.com/marcincyber/D-O-Robot)
+Project Link: [https://github.com/techparka/D-O-Robot](https://github.com/techparka/D-O-Robot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
